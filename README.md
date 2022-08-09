@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Front-end (JS | CSS | HTML | React.JS) 
-- 🌱 I’m currently learning Typescript | MySQL |  
+- 🌱 I’m currently learning Typescript 
 - 📫 How to reach me: Gustavo.carvg@gmail.com
 
 [![GustavoCarv's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocarv)](https://github.com/gustavocarv/github-readme-stats)
